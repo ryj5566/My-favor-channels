@@ -1,0 +1,212 @@
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台",TVB翡翠台
+http://v.wangjiuling.com/tv?sv=kAK4CKUalS0q2oDz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台",TVB翡翠台
+http://v.wangjiuling.com/tv?sv=5vvrfLUOQfWjmxg7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台",TVB无线新闻台
+http://v.wangjiuling.com/tv?sv=ZOEBIjUmzSNVQ7Ep
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台",TVB明珠台
+http://v.wangjiuling.com/tv?sv=Zb8rHQUQJIN2qDLP
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-jj.png",group-title="港台",HKC剧集台
+http://v.wangjiuling.com/tv?sv=G8VrSrUboCWR7xpr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-ty.png",group-title="港台",HKC体育台
+http://v.wangjiuling.com/tv?sv=ka7KuBUB4cpal1Bb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-ty2.png",group-title="港台",HKC体育2台
+http://v.wangjiuling.com/tv?sv=GJD0SOUw2IvArNDl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="港台",HKC新闻台HD
+http://v.wangjiuling.com/tv?sv=ZNE0u1Uw9ILn1Qzl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-zbxw.png",group-title="港台",HKC直播新闻台
+http://v.wangjiuling.com/tv?sv=GlzEi2U2AHeO8Mlw
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nhk.png",group-title="港台",NHK
+http://v.wangjiuling.com/tv?sv=kMELCXU9ofljoWa6
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bbcworldnews.png",group-title="港台",BBC WORLD NEWS
+http://v.wangjiuling.com/tv?sv=kAqKiKU6yc0q2oDz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="港台",中天新闻
+http://v.wangjiuling.com/tv?sv=kew6UNUNrHRKDNaz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="港台",非凡新闻
+http://v.wangjiuling.com/tv?sv=Zg3Pi3U3EI6QnKLY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="港台",东森新闻
+http://v.wangjiuling.com/tv?sv=ZqxLtAUlBURAPD1a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bbcearth.png",group-title="港台",BBC EARTH
+http://v.wangjiuling.com/tv?sv=ka0KcBUB4cpal1Bb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="港台",地理野生
+http://v.wangjiuling.com/tv?sv=G2DguKUqdU0jO1XR
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="港台",探索亚洲
+http://v.wangjiuling.com/tv?sv=ZVE3CmU79FDz1KwX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/rt.png",group-title="港台",RT
+http://v.wangjiuling.com/tv?sv=514YF9UVbI7rDjzN
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dw.png",group-title="港台",DW
+http://v.wangjiuling.com/tv?sv=5d0zUWUWzsd2XKNO
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cnn.png",group-title="港台",CNN
+http://v.wangjiuling.com/tv?sv=GRE7FjUKXca8PqW6
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cnbc.png",group-title="港台",CNBC
+http://v.wangjiuling.com/tv?sv=k7PrUlUb6CBY7QLl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="港台",FOX EWS
+http://v.wangjiuling.com/tv?sv=5vxrhLUOQfWjmxg7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/crnemax.png",group-title="港台",CINEMAX
+http://v.wangjiuling.com/tv?sv=ZOzBSjUmzSNVQ7Ep
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/france24.png",group-title="港台",FRANCE24
+http://v.wangjiuling.com/tv?sv=ZbwrfQUQJIN2qDLP
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/alzazeera.png",group-title="港台",ALJAZEERA
+http://v.wangjiuling.com/tv?sv=G8grIrUboCWR7xpr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbsworld.png",group-title="港台",KBS WORLD
+http://v.wangjiuling.com/tv?sv=GJ30COUw2IvArNDl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/channelv.png",group-title="港台",CHANNEL[V]
+http://v.wangjiuling.com/tv?sv=ZNL0I1Uw9ILn1Qzl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdonggonggong.png",group-title="地方",广东公共
+http://v.wangjiuling.com/tv?sv=k7QNhlUb6CBY7QLl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="体育",广东体育
+http://v.wangjiuling.com/tv?sv=GpKEUpUrNCdeByv2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongzhujiang.png",group-title="卫视",广东珠江
+http://v.wangjiuling.com/tv?sv=5vMPsLUOQfWjmxg7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台",TVB娛樂新聞台
+http://v.wangjiuling.com/tv?sv=ZxYgSNUowHd27Pp1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台",TVB財經資訊台
+http://v.wangjiuling.com/tv?sv=Z6MbhPU30IDOqo3g
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/weilatiyu.png",group-title="港台",緯來體育
+http://v.wangjiuling.com/tv?sv=9OdwXaPu7UywCKVYEv7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv2.png",group-title="体育",NBA2
+http://v.wangjiuling.com/tv?sv=y1rX6BpSlUJ4H8b29nm
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv3.png",group-title="体育",NBA3
+http://v.wangjiuling.com/tv?sv=m9MKW7JtyUy7CqzaB90
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv4.png",group-title="体育",NBA4
+http://v.wangjiuling.com/tv?sv=ARq4XaXhKU6yc0q2oDz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv5.png",group-title="体育",NBA5
+http://v.wangjiuling.com/tv?sv=0Lx8vQPS0U0AhojxOvW
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv6.png",group-title="体育",NBA6
+http://v.wangjiuling.com/tv?sv=wgrjeYKhRUP3Cy4Q9Mv
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv7.png",group-title="体育",NBA7
+http://v.wangjiuling.com/tv?sv=nRr2BpvT3U34Ixyb4Dw
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv8.png",group-title="体育",NBA8
+http://v.wangjiuling.com/tv?sv=31qNdavsVUz1hwLRQWm
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bestv1.png",group-title="体育",NBA1
+http://v.wangjiuling.com/tv?sv=YE9ba40F4UOAflLRpve
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13.png",group-title="央视",CCTV13
+http://v.wangjiuling.com/tv?sv=G8nqsrUdUWR7xprk
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13.png",group-title="央视",CCTV13HD
+http://v.wangjiuling.com/tv?sv=pgjPmdPUpUrNCdeByv2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="港台",RHK-31
+http://v.wangjiuling.com/tv?sv=KvYxXaaHrUDycraqPRj
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png",group-title="央视",CCTV5-HD
+http://v.wangjiuling.com/tv?sv=Z97pF7UO6SKVYEv7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png",group-title="央视",CCTV5
+http://v.wangjiuling.com/tv?sv=G8nQtrUPcWR7xprk
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="港台",奇妙电视
+http://v.wangjiuling.com/tv?sv=GryasDUA4cvDW2Yr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshixinwen.png",group-title="港台",民视新闻
+http://v.wangjiuling.com/tv?sv=ZjyXhYUPyCnEPe4p
+#EXTINF:0 tvg-logo="",group-title="地方",廣東珠江
+http://v.wangjiuling.com/tv?sv=51Agc9UVbI7rDjzN
+#EXTINF:0 tvg-logo="",group-title="地方",廣東公共
+http://v.wangjiuling.com/tv?sv=5dO2cWUWzsd2XKNO
+#EXTINF:0 tvg-logo="",group-title="地方",廣東新聞
+http://v.wangjiuling.com/tv?sv=Z9LzF7UywCKVYEv7
+#EXTINF:0 tvg-logo="",group-title="地方",广东体育频道
+http://v.wangjiuling.com/tv?sv=kWxxhbUQDIwxP9EO
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台",TVB星河
+http://v.wangjiuling.com/tv?sv=5o3dCAUAjcgqm2YP
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="港台",VIUTV
+http://v.wangjiuling.com/tv?sv=Zx2OCNUowHd27Pp1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxingtiyu.png",group-title="体育",五星体育
+http://v.wangjiuling.com/tv?sv=BbqDXJYtmUg7tBY4pa1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png",group-title="体育",劲爆体育
+http://v.wangjiuling.com/tv?sv=LAWrQJLIlUgPtvEmj1J
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png",group-title="央视",CCTV5HD
+http://v.wangjiuling.com/tv?sv=qgQe49LCAUlBURAPD1a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashixinwen.png",group-title="港台",華視新聞
+http://v.wangjiuling.com/tv?sv=9OdwXxPC7UywCKVYEv7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="港台",非凡新聞
+http://v.wangjiuling.com/tv?sv=RWK9ND4HjUKXca8PqW6
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yixinwen.png",group-title="港台",壹新聞
+http://v.wangjiuling.com/tv?sv=7oOA96oclUb6CBY7QLl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshixinwen.png",group-title="港台",民視新聞
+http://v.wangjiuling.com/tv?sv=pgjPmBNipUrNCdeByv2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="港台",TVBS新聞台
+http://v.wangjiuling.com/tv?sv=b3w0a9wCQUQJIN2qDLP
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishixinwen.png",group-title="港台",台視新聞
+http://v.wangjiuling.com/tv?sv=an0AadOHBUB4cpal1Bb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/disney.png",group-title="港台",Disney
+http://v.wangjiuling.com/tv?sv=NwLqNB7u1Uw9ILn1Qzl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bloomberg.png",group-title="港台",BLOOMBERG
+http://v.wangjiuling.com/tv?sv=lqKDYnyF2U2AHeO8Mlw
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/animax.png",group-title="港台",ANIMAX
+http://v.wangjiuling.com/tv?sv=QYDda42H1UEPcJgY3jD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="港台",Discovery
+http://v.wangjiuling.com/tv?sv=E7NVXv6I9UnAc4Q8Wwb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongwuxingqiu.png",group-title="港台",動物星球
+http://v.wangjiuling.com/tv?sv=y1rX6epclUJ4H8b29nm
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Afc.png",group-title="港台",亞洲美食
+http://v.wangjiuling.com/tv?sv=m9MKW3JHyUy7CqzaB90
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dmax.png",group-title="港台",DMAX
+http://v.wangjiuling.com/tv?sv=wgrjeVKcRUP3Cy4Q9Mv
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CNkatong.png",group-title="港台",卡通台
+http://v.wangjiuling.com/tv?sv=nRr2Bmvs3U34Ixyb4Dw
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryyazhou.png",group-title="港台",Discovery 亞洲
+http://v.wangjiuling.com/tv?sv=31qNdVvHVUz1hwLRQWm
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Discoverykexue.png",group-title="港台",Discovery 科學
+http://v.wangjiuling.com/tv?sv=YE9ba60f4UOAflLRpve
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadayule.png",group-title="港台",GTV 娛樂台
+http://v.wangjiuling.com/tv?sv=W4MvaeAUbUQDIwxP9EO
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="港台",中天娛樂台
+http://v.wangjiuling.com/tv?sv=2lXJd2WsKUqdU0jO1XR
+#EXTINF:0 tvg-logo="",group-title="港台",纬来育乐
+http://v.wangjiuling.com/tv?sv=M0BjXaPHXU9ofljoWa6
+#EXTINF:0 tvg-logo="",group-title="港台",纬来日本
+http://v.wangjiuling.com/tv?sv=RWK9Nn4TjUKXca8PqW6
+#EXTINF:0 tvg-logo="",group-title="港台",NOW华剧台
+http://v.wangjiuling.com/tv?sv=7oOA9aohlUb6CBY7QLl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowzhibo.png",group-title="港台",NOWTV
+http://v.wangjiuling.com/tv?sv=pgjPmONspUrNCdeByv2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="港台",Channel 5
+http://v.wangjiuling.com/tv?sv=4XgldaVhaUbPCrWwOo9
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cna.png",group-title="港台",Channel News Asia
+http://v.wangjiuling.com/tv?sv=Dlq28apTnUpOIE2pD4q
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台",TVB J2台
+http://v.wangjiuling.com/tv?sv=kMnLfXU9ofljoWa6
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png",group-title="央视",CCTV6-HD
+http://v.wangjiuling.com/tv?sv=GJR1iOUy3uvArNDl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png",group-title="央视",CCTV6
+http://v.wangjiuling.com/tv?sv=GJ0pCOUnsvArNDlk
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png",group-title="央视",CCTV6HD
+http://v.wangjiuling.com/tv?sv=Xx9OQwzIgURncJMBOV3
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台",TVB明珠台
+http://v.wangjiuling.com/tv?sv=k7erslUb6CBY7QLl
+#EXTINF:0 tvg-logo="",group-title="港台",香港18台
+http://v.wangjiuling.com/tv?sv=ZxvDCNUowHd27Pp1
+#EXTINF:0 tvg-logo="",group-title="港台",HBO Movie
+http://v.wangjiuling.com/tv?sv=GreMHDUA4cvDW2Yr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ouzhouxinwentai.png",group-title="港台",歐洲新聞台
+http://v.wangjiuling.com/tv?sv=5dXzHWUWzsd2XKNO
+#EXTINF:0 tvg-logo="",group-title="港台",半島電視台
+http://v.wangjiuling.com/tv?sv=oMrVLnJFAUAjcgqm2YP
+#EXTINF:0 tvg-logo="",group-title="港台",CNBC
+http://v.wangjiuling.com/tv?sv=xyrqgKgINUowHd27Pp1
+#EXTINF:0 tvg-logo="",group-title="港台",CNN頭條新聞台
+http://v.wangjiuling.com/tv?sv=r6rgDWaSDUA4cvDW2Yr
+#EXTINF:0 tvg-logo="",group-title="港台",BBC國際新聞台(HD)
+http://v.wangjiuling.com/tv?sv=j84znJXcYUPyCnEPe4p
+#EXTINF:0 tvg-logo="",group-title="港台",FUN流行音樂台
+http://v.wangjiuling.com/tv?sv=b3w0aBesQUQJIN2qDLP
+#EXTINF:0 tvg-logo="",group-title="港台",發現音樂MV
+http://v.wangjiuling.com/tv?sv=8bg0lwEFrUboCWR7xpr
+#EXTINF:0 tvg-logo="",group-title="港台",MTV Live HD
+http://v.wangjiuling.com/tv?sv=an0AaWVcBUB4cpal1Bb
+#EXTINF:0 tvg-logo="",group-title="港台",智林體育台
+http://v.wangjiuling.com/tv?sv=NwLqNXxc1Uw9ILn1Qzl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/VOA.png",group-title="港台",美國之音
+http://v.wangjiuling.com/tv?sv=2lXJdOytKUqdU0jO1XR
+#EXTINF:0 tvg-logo="",group-title="港台",韓國娛樂台KMTV
+http://v.wangjiuling.com/tv?sv=Xx9OQbdfgURncJMBOV3
+#EXTINF:0 tvg-logo="",group-title="港台",華研音樂台
+http://v.wangjiuling.com/tv?sv=RWK9NMOUjUKXca8PqW6
+#EXTINF:0 tvg-logo="",group-title="港台",發現台灣好音樂
+http://v.wangjiuling.com/tv?sv=pgjPmrEIpUrNCdeByv2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huayanyule.png",group-title="港台",華研娛樂台
+http://v.wangjiuling.com/tv?sv=7oOA9DNulUb6CBY7QLl
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bosiyundong1.png",group-title="港台",博斯運動一台HD
+http://v.wangjiuling.com/tv?sv=8bg0lKESrUboCWR7xpr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bosiyundong2.png",group-title="港台",博斯運動二台HD
+http://v.wangjiuling.com/tv?sv=an0AagVCBUB4cpal1Bb
+#EXTINF:0 group-title="日本",日本24小時新聞HD
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:0 group-title="日本",日本24小時新聞HD-2
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
