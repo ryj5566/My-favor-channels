@@ -1,5 +1,3 @@
-国内直播源
- 
 #EXTM3U
 #EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
 http://45.126.83.51/uq2663/h/h09/01.m3u8
@@ -285,12 +283,7 @@ http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
 http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
 #EXTINF:tvg-logo=““,内CHC高清 HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
- 
- 
- 
-国外直播源
- 
- 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vishwaguruji.org/images/our-projects/swamiji-tv.jpg" group-title="HINDUISM",Swamiji TV (Austria)
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
  
@@ -953,21 +946,7 @@ http://78.41.175.170:80/mjpg/video.mjpg
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai - Skyline [M3U8]
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="-IPTV",Babestation
 http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8?fluxuslust.m3u8
