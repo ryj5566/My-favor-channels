@@ -1,0 +1,4 @@
+#EXTINF:0 group-title="央視",CCTV1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+#EXTINF:0 group-title="央視",CCTV15
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
